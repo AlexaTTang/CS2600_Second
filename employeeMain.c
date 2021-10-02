@@ -40,5 +40,5 @@ int main(void)
     {
         printf("employee Daphne Borromeo is NOT found in the record\n");
     }
-    EXIT_SUCCESS;
+    return EXIT_SUCCESS;
 }
